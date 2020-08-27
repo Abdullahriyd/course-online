@@ -1,0 +1,21 @@
+  nav{
+    background:black;
+    padding: 10px;
+    font-size: 20px;
+    line-height: 40px;
+   
+  }
+  
+  nav a{
+      text-decoration: none;
+      margin-right: 40px;
+      padding: 5px;
+      color:white;
+  }
+  nav button{
+    margin-left:45%;
+  }
+  nav a:hover{
+      background-color: lightgray;
+      color:black;
+  }
